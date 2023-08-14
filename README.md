@@ -21,4 +21,4 @@ The dataset used is the soccer player dataset. It has information about various 
 <img src="architecture_diagram.png">
 
 ## Complete Tutorial
-I have created a detailed [noteboo](https://github.com/diegovillatoromx/linear_regresion_with_python/blob/main/linear_regresion.ipynb) tutorial for this project, where you will execute everything from start to end.
+I have created a detailed [notebook](https://github.com/diegovillatoromx/linear_regresion_with_python/blob/main/linear_regresion.ipynb) tutorial for this project, where you will execute everything from start to end.
