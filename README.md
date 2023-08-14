@@ -1,4 +1,4 @@
-# linear regresion with python
+# Linear regresion with python
 
 ## Project Overview
 
@@ -10,8 +10,8 @@ This project starts with a real-life example for regression analysis, with an in
 
 ## Tech Stack
 
-Language: Python
-Libraries: pandas, statsmodel, seaborn, matplotlib, sklearn, scipy
+* Language: Python
+* Libraries: pandas, statsmodel, seaborn, matplotlib, sklearn, scipy
 
 ## Data Description
 
